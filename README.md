@@ -3,7 +3,7 @@
 [![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](game_project.sql)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](TU_LINK_DE_TABLEAU_AQUI)
 
-An data analysis project exploring historical global video game sales, regional preference dynamics, and console dominance using SQL and Tableau.
+A data analysis project exploring historical global video game sales, regional preference dynamics, and console dominance using SQL and Tableau.
 
 ---
 
