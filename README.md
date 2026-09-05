@@ -15,11 +15,15 @@ An data analysis project exploring historical global video game sales, regional 
 
 ---
 
-## 📊 About the Data
+## 📊 Dataset & Data Preparation
 
-The dataset contains **16,481 records** of global video game sales sourced from [Kaggle Global Video Game Sales](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales). 
+The original dataset was sourced from [Kaggle Global Video Game Sales](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales), containing **16,481 records**. However, to ensure data integrity and accuracy, I performed an extensive **data cleaning and enrichment process** using Excel before database ingestion:
 
-Key variables analyzed:
+* **Data Cleaning:** Handled missing values, standardized platform and game names, and corrected inaccurate data.
+* **Data Enrichment:** Researched and manually updated missing release years and metadata to complete records.
+
+**Key variables analyzed:**
+
 * **Identification:** Game Name, Platform, Release Year, Genre, Publisher.
 * **Regional Sales (in millions):** North America (NA), Europe (EU), Japan (JP), Other Regions.
 * **Aggregates:** Global Sales and Global Ranking.
